@@ -23,13 +23,13 @@ h1{
 img{
     width: 120px;
     height: 120px;
-    border: solid 3px linear-gradient(0deg,rgba(255, 230, 161, 1) 0%, rgba(88, 250, 52, 1) 100%);
+    border: solid 3px;
     border-radius: 11px;
     margin: 3px;
 }
 img:hover{
     transform: scale(1.1);
-    border: solid linear-gradient(90deg, rgba(30, 214, 217, 1) 0%, rgba(13, 45, 252, 1) 51%, rgba(74, 211, 236, 1) 100%, rgba(83, 237, 234, 1) 100%, rgba(83, 222, 237, 1) 100%);
+    border: solid linear-gradient(0deg,rgba(255, 230, 161, 1) 0%, rgba(88, 250, 52, 1) 100%);
 }
 h2,h3,h4,h5,h6{
     font-family: 'Courier New', Courier, monospace;
