@@ -29,6 +29,7 @@ img{
 h2,h3,h4,h5,h6{
     font-family: 'Courier New', Courier, monospace;
     color: firebrick;
+    text-shadow: 2.5px;
 }
 p{
     font-family: 'Courier New', Courier, monospace;
