@@ -26,6 +26,10 @@ img{
     border-radius: 11px;
     margin: 3px;
 }
+img:hover{
+    transform: scale(1.1);
+    border: solid linear-gradient(90deg, rgba(30, 214, 217, 1) 0%, rgba(13, 45, 252, 1) 51%, rgba(74, 211, 236, 1) 100%, rgba(83, 237, 234, 1) 100%, rgba(83, 222, 237, 1) 100%);
+}
 h2,h3,h4,h5,h6{
     font-family: 'Courier New', Courier, monospace;
     color: firebrick;
