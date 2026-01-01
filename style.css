@@ -35,4 +35,5 @@ p{
     font-family: 'Courier New', Courier, monospace;
     color: firebrick;
     text-shadow: 2.5px;
+    text-decoration-style: bold;
 }
