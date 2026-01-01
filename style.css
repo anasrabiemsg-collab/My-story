@@ -15,6 +15,7 @@
     padding: 20px;
     border-radius: 10px;
     position: fixed;
+    border: solid 3px linear-gradient(0deg,rgba(255, 230, 161, 1) 0%, rgba(88, 250, 52, 1) 100%);
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
