@@ -15,7 +15,7 @@
     padding: 20px;
     border-radius: 10px;
     position: fixed;
-    border: solid 3px linear-gradient(0deg,rgba(255, 230, 161, 1) 0%, rgba(88, 250, 52, 1) 100%);
+    border: solid 3px firebrick;
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
@@ -25,21 +25,18 @@ img{
     height: 120px;
     border: solid 3px;
     border-radius: 11px;
-    margin: 3px;
+    margin: 6px;
 }
 img:hover{
     transform: scale(1.1);
-    border: solid linear-gradient(0deg,rgba(255, 230, 161, 1) 0%, rgba(88, 250, 52, 1) 100%);
+    border: solid 2.7px firebrick;
 }
 h2,h3,h4,h5,h6{
     font-family: 'Courier New', Courier, monospace;
     color: firebrick;
     text-shadow: 2.5px;
 }
-
-ul{
+li{
     font-family: 'Courier New', Courier, monospace;
     color: firebrick;
-    text-shadow: 2.5px;
-    text-decoration-style: bold;
 }
