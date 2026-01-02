@@ -19,6 +19,8 @@
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
+    color: #ff0000;
+    color: linear-gradient(90deg,rgba(255, 0, 0, 1) 0%, rgba(255, 204, 0, 1) 65%, rgba(242, 218, 0, 1) 100%);
 }
 img{
     width: 120px;
